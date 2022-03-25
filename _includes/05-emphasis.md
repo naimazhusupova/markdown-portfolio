@@ -1,1 +1,2 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+# My interests
+I speak four *languages*. I am interested in *Data Analysis* and *Virtual Reality*. I would like to launch an innovative eco-friendly startup using **Artificial Intelligence**.
